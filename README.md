@@ -8,7 +8,7 @@ This project implements an OS Scheduler in C for the STM32 Blue Pill microcontro
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/stm32-blue-pill-os-scheduler.git
+git clone https://github.com/Mohamedahmed2k/OS-Scheduler.git
 
 scss
 Copy code
